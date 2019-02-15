@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const {lastModified} = require("./index");
+const { lastModified } = require("./index");
 
 async function main(url) {
   const age = await lastModified(url);

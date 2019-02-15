@@ -3,7 +3,7 @@
   "description": "Test how fresh the dashboard data is.",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
-  "bin": "node cli.js",
+  "bin": "cli.js",
   "bugs": {
     "url": "https://github.com/pdehaan/ensemble-data-test/issues"
   },

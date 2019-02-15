@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const {lastModified} = require("./index");
 
 async function main(url) {
